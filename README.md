@@ -9,3 +9,5 @@ Xiexie to [this](http://stackoverflow.com/a/9265035) answer on Stack Overflow fo
 Also thanks to a kind gentleman at Code Fellows whom I've forgotten the name of for helping me debug the opacity for the text background!
 
 Elizabeth and I worked together on adding the skeleton to the page and thereby giving it a grid.
+
+Sam and I worked on making the stylesheets work according to SMACSS convention.

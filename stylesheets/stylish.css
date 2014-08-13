@@ -1,0 +1,27 @@
+* {
+  font-family: Helvetica;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+body {
+  background-image:  url(../gifs/mainHeader.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 50%;
+  margin-left: 23%;
+  margin-right: auto;
+}
+
+h1 {
+  font-size: 35px;
+  opacity: 1;
+}
+
+p {
+  font-size: 15px;
+  opacity: 1;
+}
